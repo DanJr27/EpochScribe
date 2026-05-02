@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: EpochScribe
+## Notes: A simple adventure journal for Project Epoch.
+## Author: Xtraction
+## SavedVariables: EpochScribeDB
+
+EpochScribe.lua
